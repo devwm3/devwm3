@@ -7,4 +7,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devwm3&theme=radical)
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/m_2077?theme=dark&font=baloo_2)
+![LeetCode Stats](https://leetcard.jacoblin.cool/devwm3?theme=dark&font=baloo_2)
